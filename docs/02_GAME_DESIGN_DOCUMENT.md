@@ -1,0 +1,3 @@
+# 02 GAME DESIGN DOCUMENT
+
+Placeholder.
